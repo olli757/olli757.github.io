@@ -116,7 +116,7 @@ two
 
 
 
-![png](2021-10-27-neural-net-from-scratch_files/output_15_0.png)
+![png](/images/2021-10-27-neural-net-from-scratch_files/output_15_0.png)
 
 
 
