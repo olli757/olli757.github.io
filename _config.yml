@@ -6,19 +6,19 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Olli's blog!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: My Deep Learning Journey
+description: Follow along with my journey into the magic world of AI, Machine Learning and more specifically deep neural networks...
 github_username: olli757
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: omoens@gmail.com
+twitter_username: @Olli757
 
 # Set this to true to get LaTeX math equation support
 use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: G-SN8GJTGGBK
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
